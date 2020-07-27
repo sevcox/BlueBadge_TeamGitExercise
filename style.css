@@ -25,22 +25,27 @@ section#home {
 h1#teamname {
   text-align: Center;
   color: #8440b8;
-  font-size: 4em;
+  font-size: 5em;
   padding-top: 20%;
+  font-family: cursive;
 }
 
 h2#teammotto {
   text-align: Center;
   font-size: 2em;
-  color: #8440b8;
+  color: purple;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
 h4#easteregg {
   text-align: center;
   color: #8440b8;
+
 }
 
 a.easteregglink {
-  text-decoration: none;
+  text-decoration: blue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
 }
 
 a.easteregglink:hover {
