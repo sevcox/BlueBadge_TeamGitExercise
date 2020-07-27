@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.wonkaNav {
+  position: relative;
+  background-color: #cbc3e7;
+  font-family: "Lobster", cursive;
+  font-size: 30px;
+}
+.wonkaNavLinks{
+    position: absolute;
+    right: 5vw;
+}
