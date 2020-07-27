@@ -1,3 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.wonkaNav {
+  position: relative;
+  background-color: #cbc3e7;
+  font-family: "Lobster", cursive;
+  font-size: 30px;
+}
+.wonkaNavLinks{
+    position: absolute;
+    right: 5vw;
+}
 section#home{
     background-image: url(https://media.istockphoto.com/photos/gold-foil-leaf-shiny-wrapping-paper-texture-background-for-wall-paper-picture-id1174901583?k=6&m=1174901583&s=612x612&w=0&h=cfGMcDhAu5dzD-mhYSVdV7KBuO91bDVr32nVb0ST7K4=);
     background-size: 100%;
