@@ -1,9 +1,9 @@
 body {
   font-family: "Roboto", sans-serif;
 }
-.wonkaNavWrapper{
-    position: fixed;
-    width: 100vw;
+.wonkaNavWrapper {
+  position: fixed;
+  width: 100vw;
 }
 .wonkaNav {
   position: relative;
@@ -25,29 +25,88 @@ section#home {
 h1#teamname {
   text-align: Center;
   color: #8440b8;
-  font-size: 4em;
+  font-size: 5em;
   padding-top: 20%;
+  font-family: cursive;
 }
 
 h2#teammotto {
   text-align: Center;
   font-size: 2em;
-  color: #8440b8;
+  color: purple;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
 h4#easteregg {
   text-align: center;
   color: #8440b8;
+
 }
 
 a.easteregglink {
-  text-decoration: none;
+  text-decoration: blue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
 }
 
 a.easteregglink:hover {
   color: #5a23b4;
 }
 #tyler {
-  font-style: italic;
+  font-family:"Lobster", cursive;
   font-size: 16pt;
-  color: purple;
+  color: #8440b8;
+    height: 100vh;
+  width: 100vw;
+  padding: 100px;
+}
+
+#severa{
+    font-family:"Lobster", cursive;
+    font-size: 16pt;
+    color: #8440b8;
+    height: 100vh;
+  width: 100vw;
+  padding: 100px;
+}
+
+#zach{
+    font-family:"Lobster", cursive;
+    font-size: 16pt;
+    color:#8440b8 ;
+    height: 100vh;
+  width: 100vw;
+  padding: 100px;
+}
+
+#zach h1{
+    font-size: 4em;
+    margin-top: 0;
+    margin-bottom:1em;   
+}
+
+#severa h1{
+    font-size: 4em;
+    margin-top:0;
+    margin-bottom:1em; 
+}
+
+#tyler h1{
+    font-size: 4em;
+    margin-top: 0;
+    margin-bottom: 1em;  
+}
+
+#tyler h3{
+    font-size:2em;
+    margin-bottom: 1em;
+}
+
+#severa h3{
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+#zach h3{
+    font-size: 2em;
+    margin-bottom: 1em;
 }
