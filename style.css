@@ -1,3 +1,4 @@
+
 body {
   font-family: "Roboto", sans-serif;
 }
@@ -41,4 +42,10 @@ a.easteregglink{
 
 a.easteregglink:hover{
     color:#5a23b4;
+  }
+  #tyler{
+    font-style: italic;
+    font-
+    font-size: 16pt;
+    color: purple;
 }
