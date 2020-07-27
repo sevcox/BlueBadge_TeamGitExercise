@@ -47,7 +47,52 @@ a.easteregglink:hover {
   color: #5a23b4;
 }
 #tyler {
-  font-style: italic;
+  font-family:"Lobster", cursive;
   font-size: 16pt;
-  color: purple;
+  color: #8440b8;
+}
+
+#severa{
+    font-family:"Lobster", cursive;
+    font-size: 16pt;
+    color: #8440b8;
+}
+
+#zach{
+    font-family:"Lobster", cursive;
+    font-size: 16pt;
+    color:#8440b8 ;
+}
+
+#zach h1{
+    font-size: 4em;
+    margin-top: 0;
+    margin-bottom:1em;   
+}
+
+#severa h1{
+    font-size: 4em;
+    margin-top:0;
+    margin-bottom:1em; 
+}
+
+#tyler h1{
+    font-size: 4em;
+    margin-top: 0;
+    margin-bottom: 1em;  
+}
+
+#tyler h3{
+    font-size:2em;
+    margin-bottom: 1em;
+}
+
+#severa h3{
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+#zach h3{
+    font-size: 2em;
+    margin-bottom: 1em;
 }
