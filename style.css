@@ -1,7 +1,51 @@
-#tyler{
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+.wonkaNav {
+  position: relative;
+  background-color: #cbc3e7;
+  font-family: "Lobster", cursive;
+  font-size: 30px;
+}
+.wonkaNavLinks{
+    position: absolute;
+    right: 5vw;
+}
+section#home{
+    background-image: url(https://media.istockphoto.com/photos/gold-foil-leaf-shiny-wrapping-paper-texture-background-for-wall-paper-picture-id1174901583?k=6&m=1174901583&s=612x612&w=0&h=cfGMcDhAu5dzD-mhYSVdV7KBuO91bDVr32nVb0ST7K4=);
+    background-size: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+h1#teamname{
+    text-align: Center;
+    color:#8440b8;
+    font-size: 4em;
+    padding-top: 20%;
+}
+
+h2#teammotto{
+    text-align: Center;
+    font-size: 2em;
+    color:#8440b8;
+}
+h4#easteregg{
+    text-align: center;
+    color: #8440b8;
+}
+
+a.easteregglink{
+    text-decoration: none;
+}
+
+a.easteregglink:hover{
+    color:#5a23b4;
+  }
+  #tyler{
     font-style: italic;
     font-
     font-size: 16pt;
     color: purple;
-    
 }
